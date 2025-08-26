@@ -1,1 +1,2 @@
 # independent-study
+Data retrieved from  https://vincentarelbundock.github.io/Rdatasets/articles/data.html and corresponding codebook here: https://vincentarelbundock.github.io/Rdatasets/doc/sampleSelection/Mroz87.html. 
