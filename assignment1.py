@@ -48,5 +48,3 @@ fig.show()
 fig.write_html("Plotly.html")
 
 
-
-
